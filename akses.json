@@ -1,1 +1,5 @@
-{}
+{
+    nomor: nomor,
+    nama: nama,
+    password: password,
+}
